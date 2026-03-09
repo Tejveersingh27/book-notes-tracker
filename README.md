@@ -1,6 +1,6 @@
-# 📚 Book Notes App (MVP)
+# Book Notes App (MVP)
 
-## 📌 Overview
+## Overview
 
 Book Notes is a simple full-stack web application that allows users to:
 
@@ -15,7 +15,7 @@ This is an MVP version and will be expanded with additional features.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**
 - Node.js
@@ -32,9 +32,9 @@ This is an MVP version and will be expanded with additional features.
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
-### 1️⃣ Install Dependencies
+### Install Dependencies
 
 Inside the project directory:
 
@@ -43,7 +43,7 @@ This installs all required packages from `package.json`.
 
 ---
 
-### 2️⃣ PostgreSQL Setup
+### PostgreSQL Setup
 
 Ensure PostgreSQL is running.
 
